@@ -1,0 +1,65 @@
+[TraceId: ] 2024-07-22 19:47:32.509 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_411 on subinuerdeMacBook-Air.local with PID 25591 (/Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot/weblog-web/target/classes started by subinuer in /Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot)
+[TraceId: ] 2024-07-22 19:47:32.510 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-07-22 19:47:32.907 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-07-22 19:47:32.911 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-07-22 19:47:32.911 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-07-22 19:47:32.950 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-07-22 19:47:32.950 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 418 ms
+[TraceId: ] 2024-07-22 19:47:33.093 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-07-22 19:47:33.097 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.839 seconds (JVM running for 1.203)
+[TraceId: ] 2024-07-22 19:47:49.351 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_411 on subinuerdeMacBook-Air.local with PID 25610 (/Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot/weblog-web/target/classes started by subinuer in /Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot)
+[TraceId: ] 2024-07-22 19:47:49.352 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-07-22 19:47:49.683 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-07-22 19:47:49.686 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-07-22 19:47:49.686 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-07-22 19:47:49.714 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-07-22 19:47:49.714 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 345 ms
+[TraceId: ] 2024-07-22 19:47:49.833 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-07-22 19:47:49.838 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.695 seconds (JVM running for 0.923)
+[TraceId: ] 2024-07-22 19:48:18.595 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_411 on subinuerdeMacBook-Air.local with PID 25615 (/Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot/weblog-web/target/classes started by subinuer in /Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot)
+[TraceId: ] 2024-07-22 19:48:18.596 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-07-22 19:48:18.935 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-07-22 19:48:18.938 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-07-22 19:48:18.938 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-07-22 19:48:18.966 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-07-22 19:48:18.966 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 352 ms
+[TraceId: ] 2024-07-22 19:48:19.085 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-07-22 19:48:19.089 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.724 seconds (JVM running for 0.937)
+[TraceId: ] 2024-07-22 19:48:48.933 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2024-07-22 19:48:48.934 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2024-07-22 19:48:48.936 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+[TraceId: ] 2024-07-22 19:49:14.262 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_411 on subinuerdeMacBook-Air.local with PID 25659 (/Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot/weblog-web/target/classes started by subinuer in /Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot)
+[TraceId: ] 2024-07-22 19:49:14.263 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-07-22 19:49:14.639 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-07-22 19:49:14.642 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-07-22 19:49:14.642 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-07-22 19:49:14.671 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-07-22 19:49:14.671 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 375 ms
+[TraceId: ] 2024-07-22 19:49:14.802 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-07-22 19:49:14.807 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.976 seconds (JVM running for 1.301)
+[TraceId: ] 2024-07-22 19:49:44.518 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_411 on subinuerdeMacBook-Air.local with PID 25685 (/Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot/weblog-web/target/classes started by subinuer in /Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot)
+[TraceId: ] 2024-07-22 19:49:44.519 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-07-22 19:49:44.871 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-07-22 19:49:44.874 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-07-22 19:49:44.875 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-07-22 19:49:44.905 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-07-22 19:49:44.905 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 367 ms
+[TraceId: ] 2024-07-22 19:49:45.030 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-07-22 19:49:45.035 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.741 seconds (JVM running for 0.969)
+[TraceId: ] 2024-07-22 19:49:53.521 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2024-07-22 19:49:53.522 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2024-07-22 19:49:53.524 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+[TraceId: ] 2024-07-22 21:26:40.689 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_411 on subinuerdeMacBook-Air.local with PID 27725 (/Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot/weblog-web/target/classes started by subinuer in /Users/subinuer/大学文件/大四/大四下/面试/项目/weblog/weblog-springboot)
+[TraceId: ] 2024-07-22 21:26:40.690 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2024-07-22 21:26:41.116 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-07-22 21:26:41.119 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-07-22 21:26:41.119 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2024-07-22 21:26:41.150 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-07-22 21:26:41.151 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 440 ms
+[TraceId: ] 2024-07-22 21:26:41.315 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-07-22 21:26:41.320 [main] INFO  com.subinuer.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.856 seconds (JVM running for 1.112)
+[TraceId: ] 2024-07-22 21:26:45.905 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2024-07-22 21:26:45.905 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2024-07-22 21:26:45.906 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[TraceId: ] 2024-07-22 21:26:45.989 [http-nio-8080-exec-2] INFO  c.s.w.common.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口], 入参: {"username":"admin","sex":1}, 请求类: testController, 请求方法: test =================================== 
+[TraceId: ] 2024-07-22 21:26:45.993 [http-nio-8080-exec-2] INFO  c.s.w.common.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口], 耗时: 11ms, 出参: {} =================================== 
